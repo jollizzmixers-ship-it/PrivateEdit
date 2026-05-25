@@ -1,6 +1,0 @@
-{
-  "name": "The Private Edit",
-  "description": "A highly curated, modern luxury women's fashion accessories boutique featuring premium handbags, structural belts, and fine watches.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
